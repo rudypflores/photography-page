@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'cooperhewitt';
+    src: url('./fonts/cooperhewitt/CooperHewitt-Bold.otf');
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'cooperhewitt';
+    src: url('./fonts/cooperhewitt/CooperHewitt-Medium.otf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'cooperhewitt';
+    src: url('./fonts/cooperhewitt/CooperHewitt-Thin.otf');
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'young-serif';
+    src: url('./fonts/young-serif/YoungSerif-Regular.otf');
+}
